@@ -97,7 +97,7 @@ const props = defineProps({
   // 如果使用 TypeScript，请添加 @ts-ignore
   ...RouterLink.props,
   inactiveClass: String,
-}）
+})
 
 const {
   // 解析出来的路由对象
